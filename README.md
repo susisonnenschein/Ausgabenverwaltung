@@ -21,7 +21,7 @@ Ihr Programm soll mindestens folgende Menüpunkte enthalten:
 2. Alle Ausgaben, sortiert nach Monat, ausgeben.
 3. Summe der Ausgaben pro Kategorie ausgeben,
 4. Rechnung löschen
-5.Programmende
+5. Programmende
 
 Die Rechnungen müssen in einer verketteten Liste verwaltet und dynamisch erzeugt werden.
 Eine  permanente  Speicherung  der  Daten  ist  nicht  gefordert.  Die  Daten  müssen  nur  zur Laufzeit  des  Programms  verfügbar  sein.  Achten  Sie  auf  eine  angemessene Dokumentation Ihres Programms!
